@@ -4,7 +4,7 @@
 
 ## 📄 Poster đề tài
 
-![Poster](poster_blockchain.jpg)
+![Poster](poster_blockchain1.jpg)
 
 ---
 
