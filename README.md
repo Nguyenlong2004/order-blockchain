@@ -2,6 +2,9 @@
 
 ---
 
+## 📄 Poster đề tài
+
+![Poster](Poster%20blockchain1.jpg)
 
 ## 📋 Giới thiệu đề tài
 
