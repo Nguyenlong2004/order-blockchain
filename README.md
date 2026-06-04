@@ -1,6 +1,10 @@
 # ⛓ TechChain — Hệ thống Quản lý Đơn hàng Blockchain
 
+---
 
+## 📄 Poster đề tài
+
+![Poster](poster_blockchain.jpg)
 
 ---
 
