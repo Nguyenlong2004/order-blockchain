@@ -2,11 +2,6 @@
 
 ---
 
-## 📄 Poster đề tài
-
-![Poster]("Poster blockchain1.jpg")
-
----
 
 ## 📋 Giới thiệu đề tài
 
